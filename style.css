@@ -1,0 +1,151 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+ 
+  .containerr{
+  background-color: blue;
+}
+.containerr p{
+  font-weight: 500;
+  color: #ffffff8e;
+}
+  
+  .container1 .row 
+  {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+.container1 p{
+  font-weight: 500;
+  color:  #2321218e;
+}
+  
+.d-flex
+{
+display: flex;
+flex-wrap: wrap;
+margin-left: 170px;
+margin-bottom: 30px;
+margin-top: 20px;
+font-weight: 40;
+}
+
+
+.containersvg svg{
+  fill:rgb(248, 245, 240)
+  
+}
+
+.container2
+{
+  background-color:rgb(248, 245, 240)
+
+}
+.container2 .row
+{
+
+  margin: 20px;
+  border-bottom: rgb(163, 64, 64);
+
+}
+
+.mb-4 img
+{
+  border-bottom: #9187878e;
+  animation-direction: normal;
+  transform: rotateY(20deg) rotateX(15deg)!important;
+  
+  
+}
+.container4 h4{
+
+  margin-top: 60px;
+}
+.container4 p{
+
+  color: #1211118e;
+}
+
+.container4 .row{
+
+  margin-top: 50px;
+  margin-left:40px ;
+  margin-right: 40px;
+  margin-bottom: -250px;
+}
+.container4 .col
+{
+  border-color: rgb(255, 255, 255);
+  padding-left: 30px;
+}
+.container4 .h6{
+  margin: 20px;
+}
+.container4 .badge
+{
+  font-weight: 700;
+  margin:10px;
+}
+.container4 .pricing-price
+{
+  font-size: 50px;
+  font-weight: 400;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container4 .pricing-price sup
+{
+ font-size: 1.5rem;
+}
+.container4 .far {
+  color: azure;
+}
+.container4 .pricing-price1
+{
+  font-size: 50px;
+  font-weight: 400;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.svg-border{
+  margin-top: -150px;
+}
+.container5{
+  background-color:#273036;
+}
+.container5 img{
+  margin-left: -70px;
+}
+.container5 h5{
+  margin-left: 30px;
+}
+.container5 .second
+{
+  margin-left: -50px;
+}
+
+.container5 .four{
+  margin-left: -60px;
+}
+.btn {
+  background-color: rgb(3, 93, 3);
+}
+.footer.footer-light
+{
+  color: #a7aeb8;
+
+}
+.svg2{
+  margin-top: -350px;
+}
